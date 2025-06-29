@@ -6,7 +6,7 @@ Each value is a dictionary representing the care routine.
 
 # Continuing with routines for 4B, 4A, 3C, and Locs
 
-hair_routines.update({
+hair_routines = ({
     # --- 4B ---
     ("4B", "Growth"): {
         "Cleanse": "Co-wash weekly, clarify monthly to prevent buildup.",
